@@ -1,0 +1,21 @@
+
+# Local application settings file
+appsettings.Development.json
+
+# Rider
+**/.idea
+
+# Nuget Packages
+.nuget/
+
+*.suo
+*.user
+.vs/
+[Bb]in/
+[Oo]bj/
+_UpgradeReport_Files/
+[Pp]ackages/
+
+Thumbs.db
+Desktop.ini
+.DS_Store
