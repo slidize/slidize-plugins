@@ -2,10 +2,10 @@
 
 Slidize.Plugins is a set of powerful tools for working with Microsoft PowerPoint presentations, allowing you to convert presentations into various formats such as PDF, TIFF, PNG, JPEG, SVG, and HTML.
 
-- **Site**: [Site](https://www.slidize.com/)
-- **Nuget**: [Nuget](https://www.nuget.org/packages/Slidize.Plugins)
-- **Docs**: [Docs](https://docs.slidize.com/docs/Getting_Started.html)
-- **API Reference**: [API Reference](https://docs.slidize.com/api/Slidize.html)
+- [Site](https://www.slidize.com/)
+- [Nuget](https://www.nuget.org/packages/Slidize.Plugins)
+- [Docs](https://docs.slidize.com/docs/Getting_Started.html)
+- [API Reference](https://docs.slidize.com/api/Slidize.html)
 
 ## Getting Started
 
