@@ -7,4 +7,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Slidize.Plugins" Version="24.12.0" />
+    </ItemGroup>
+
 </Project>
