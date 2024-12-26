@@ -16,7 +16,7 @@ public static class PresentationToHtmlConverterExamples
         PresentationToHtmlConverter.Process(inputStream, outputStream);
     }
 
-    // Conversion with default font setting
+    // Conversion with a default font setting
     public static void WithDefaultFont()
     {
         var options = new HtmlConverterOptions
@@ -26,7 +26,7 @@ public static class PresentationToHtmlConverterExamples
         PresentationToHtmlConverter.Process("presentation.pptx", "presentation.html", options);
     }
 
-    // Adjusting picture compression level
+    // Adjusting the picture compression level
     public static void WithPictureCompression()
     {
         var options = new HtmlConverterOptions

@@ -2,7 +2,7 @@
 
 public static class PresentationToTiffConverterExamples
 {
-    // Basic conversion from a presentation file to TIFF images
+    // Basic conversion from a presentation file into TIFF images
     public static void Basic()
     {
         PresentationToTiffConverter.Process("presentation.pptx", "slide.tiff");

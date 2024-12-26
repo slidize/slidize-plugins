@@ -1,5 +1,4 @@
 ﻿using Slidize;
-using System.IO;
 
 public class PresentationMergerExamples
 {

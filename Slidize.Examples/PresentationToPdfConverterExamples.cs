@@ -2,7 +2,7 @@
 
 public static class PresentationToPdfConverterExamples
 {
-    // Basic conversion from a presentation file to PDF
+    // Basic conversion from a presentation file into PDF
     public static void Basic()
     {
         PresentationToPdfConverter.Process("presentation.pptx", "presentation.pdf");

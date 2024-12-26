@@ -2,7 +2,7 @@
 
 public static class PresentationToJpegConverterExamples
 {
-    // Basic conversion from a presentation file to JPEG images
+    // Basic conversion from a presentation file into JPEG images
     public static void Basic()
     {
         PresentationToJpegConverter.Process("presentation.pptx", "slide.jpg");
