@@ -2,7 +2,7 @@
 
 public static class PresentationToPngConverterExamples
 {
-    // Basic conversion from a presentation file to PNG images
+    // Basic conversion from a presentation file into PNG images
     public static void Basic()
     {
         PresentationToPngConverter.Process("presentation.pptx", "slide.png");

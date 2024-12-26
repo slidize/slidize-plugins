@@ -2,7 +2,7 @@
 
 public static class PresentationToSvgConverterExamples
 {
-    // Basic conversion from a presentation file to SVG images
+    // Basic conversion from a presentation file into SVG images
     public static void Basic()
     {
         PresentationToSvgConverter.Process("presentation.pptx", "slide.svg");
@@ -28,7 +28,7 @@ public static class PresentationToSvgConverterExamples
         PresentationToSvgConverter.Process("presentation.pptx", "slide.svg", options);
     }
 
-    // Vectorizing text for improved quality
+    // Vectorizing text to improve quality
     public static void WithVectorizedText()
     {
         var options = new SvgConverterOptions
